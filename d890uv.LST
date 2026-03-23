@@ -1,4 +1,4 @@
-37
+38
 0,"Channel.CSV"
 1,"RadioIDList.CSV"
 2,"DMRZone.CSV"
@@ -31,8 +31,9 @@
 29,"ARC4EncryptionCode.CSV"
 30,"AMZone.CSV"
 31,"NXDigitalContactList.CSV"
-32,"TalkGroupblacklist(Repeater).CSV"
-33,"DigitalContactblacklist(Repeater).CSV"
+32,"TalkGroupWhitelist(Repeater).CSV"
+33,"DigitalContactWhitelist(Repeater).CSV"
 34,"NXSetting.CSV"
 35,"MDC1200AddressBook.CSV"
 36,"MDC1200Encode.CSV"
+37,"EncryptionCode.CSV"
