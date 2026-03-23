@@ -58,23 +58,6 @@ git checkout v1.03
 
 > **Important:** You must update the Radio ID with your own DMR ID before transmitting on DMR. You can obtain a DMR ID at [radioid.net](https://radioid.net/).
 
-## File Structure
-
-| File                          | Description                                                  |
-| ----------------------------- | ------------------------------------------------------------ |
-| `d890uv.LST`                  | Master file that references all CSV files (open this in CPS) |
-| `Channel.CSV`                 | All channel definitions (frequency, power, mode, etc.)       |
-| `DMRZone.CSV`                 | DMR zone groupings                                           |
-| `DMRTalkGroups.CSV`           | DMR talk group definitions                                   |
-| `DMRDigitalContactList.CSV`   | DMR contact list                                             |
-| `DMRReceiveGroupCallList.CSV` | DMR receive group call lists                                 |
-| `RadioIDList.CSV`             | Your radio DMR ID and callsign                               |
-| `ScanList.CSV`                | Scan list definitions                                        |
-| `APRS.CSV`                    | APRS configuration                                           |
-| `AMZone.CSV`                  | Airband monitoring zones                                     |
-| `FM.CSV`                      | FM broadcast settings                                        |
-| `OptionalSetting.CSV`         | Radio optional settings                                      |
-
 ## Contributing
 
 Contributions are welcome! Whether you want to:
